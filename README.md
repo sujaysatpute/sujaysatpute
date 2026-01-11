@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi, I'm Sujay👋
+
+🎓 Computer Engineering student  
+🎨 Interested in graphic and web design  
+💻 Flutter, Python & Full-Stack Developer  
+📰 Building real-time, API-driven applications  
+
+🧠 Explore my portfolio: [Your Portfolio Link Here]
 
 <!--
 **sujaysatpute/sujaysatpute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
