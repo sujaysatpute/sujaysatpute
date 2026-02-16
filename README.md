@@ -5,7 +5,7 @@
 💻 Flutter, Python & Full-Stack Developer  
 📰 Building real-time, API-driven applications  
 
-🧠 Explore my portfolio: [Your Portfolio Link Here]
+🧠 Explore my portfolio: [...]
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@su_jayzz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sujaysatpute) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sujay27satpute@gmail.com) 
